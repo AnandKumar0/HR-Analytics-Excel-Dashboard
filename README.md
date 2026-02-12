@@ -58,5 +58,5 @@ The dashboard helps HR teams and business leaders identify high-risk employee se
 
 ---
 ## 👤 Author
-Anand Kumar 
+Anand Kumar --
 Aspiring Data Analyst | Excel Dashboard Developer | Data Visualization Enthusiast
